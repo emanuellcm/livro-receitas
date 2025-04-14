@@ -1,6 +1,6 @@
-🍮 Pudim de Leite Condensado Tradicional
-Ingredientes:
-Para o pudim:
+# 🍮 Pudim de Leite Condensado Tradicional
+## Ingredientes:
+### Para o pudim:
 
 1 lata de leite condensado (395g)
 
@@ -15,7 +15,7 @@ Para a calda:
 1/2 xícara (chá) de água
 
 Modo de preparo:
-1. Prepare a calda:
+## 1. Prepare a calda:
 
 Em uma panela, derreta o açúcar em fogo baixo até ficar dourado.
 
@@ -23,13 +23,13 @@ Adicione a água com cuidado (vai borbulhar bastante) e mexa até dissolver o a�
 
 Despeje essa calda em uma forma de pudim (com furo no meio), espalhando pelas laterais.
 
-2. Prepare o pudim:
+## 2. Prepare o pudim:
 
 No liquidificador, bata os ovos, o leite condensado e o leite por cerca de 2 minutos.
 
 Despeje essa mistura na forma caramelizada.
 
-3. Asse o pudim:
+## 3. Asse o pudim:
 
 Cubra a forma com papel-alumínio.
 
@@ -39,6 +39,6 @@ Deixe esfriar, leve à geladeira por pelo menos 4 horas.
 
 Desenforme com cuidado e sirva gelado.
 
-📚 Referência:
+## 📚 Referência:
 Receita baseada na versão oficial do site Nestlé Receitas:
 Pudim de leite condensado | Receitas Nestlé
